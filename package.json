@@ -1,0 +1,25 @@
+{
+  "name": "hookhub-bootstrap-url",
+  "version": "0.0.1",
+  "description": "HookHub bootstrap module for remote (url-based) configuration files",
+  "scripts": {
+    "test": "echo \"Error: no tests yet\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "js-yaml": "^3.13.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "standard": "^12.0.1"
+  }
+}
