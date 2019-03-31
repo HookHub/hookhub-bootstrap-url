@@ -1,2 +1,5 @@
 # hookhub-bootstrap-url
-HookHub Bootstrap for remote configuration files
+
+HookHub bootstrap module for remote (url) configuration files
+
+For more information see the [Hookhub](https://github.com/hookhub/hookhub/) repository
